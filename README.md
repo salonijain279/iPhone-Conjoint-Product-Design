@@ -8,6 +8,15 @@ This project was completed with Bhavisha Chafekar, Omkar Thombare, Parul Chaudha
 
 Which combination of price, storage, and color produces the strongest predicted preference among the eight tested profiles?
 
+## Approach
+
+```mermaid
+flowchart LR
+    A[8 tested profiles: price x storage x color] --> B[Aggregate part-worth utilities]
+    B --> C[Score each profile]
+    C --> D[Rank profiles by predicted preference]
+```
+
 ## Tested design
 
 | Attribute | Levels |
