@@ -1,8 +1,8 @@
-# iPhone Conjoint Product Design
+# iPhone Pricing & Feature Optimization
 
-I used aggregate part-worth utilities to compare product trade-offs across price, storage, and color and identify the highest-scoring iPhone concept within the tested design space.
+Aggregate part-worth utilities compare product trade-offs across price, storage, and color to identify the highest-scoring iPhone concept within the tested design space.
 
-This project was completed with Bhavisha Chafekar, Omkar Thombare, Parul Chaudhary, and Shivanshu Dagur. This public repository contains my reproducible scenario-analysis layer and aggregate model estimates only; it excludes respondent-level survey data, submissions, and course materials.
+This project was completed with Bhavisha Chafekar, Omkar Thombare, Parul Chaudhary, and Shivanshu Dagur. This public repository contains Saloni Jain's reproducible scenario-analysis layer and aggregate model estimates only; it excludes respondent-level survey data, submissions, and course materials.
 
 ## Decision question
 
